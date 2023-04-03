@@ -1,0 +1,30 @@
+D:\visual\tugas\pemrograman\minggu4\bin\Debug\net6.0\minggu4.exe
+D:\visual\tugas\pemrograman\minggu4\bin\Debug\net6.0\minggu4.deps.json
+D:\visual\tugas\pemrograman\minggu4\bin\Debug\net6.0\minggu4.runtimeconfig.json
+D:\visual\tugas\pemrograman\minggu4\bin\Debug\net6.0\minggu4.dll
+D:\visual\tugas\pemrograman\minggu4\bin\Debug\net6.0\minggu4.pdb
+D:\visual\tugas\pemrograman\minggu4\obj\Debug\net6.0\minggu4.csproj.AssemblyReference.cache
+D:\visual\tugas\pemrograman\minggu4\obj\Debug\net6.0\minggu4.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\tugas\pemrograman\minggu4\obj\Debug\net6.0\minggu4.AssemblyInfoInputs.cache
+D:\visual\tugas\pemrograman\minggu4\obj\Debug\net6.0\minggu4.AssemblyInfo.cs
+D:\visual\tugas\pemrograman\minggu4\obj\Debug\net6.0\minggu4.csproj.CoreCompileInputs.cache
+D:\visual\tugas\pemrograman\minggu4\obj\Debug\net6.0\minggu4.dll
+D:\visual\tugas\pemrograman\minggu4\obj\Debug\net6.0\refint\minggu4.dll
+D:\visual\tugas\pemrograman\minggu4\obj\Debug\net6.0\minggu4.pdb
+D:\visual\tugas\pemrograman\minggu4\obj\Debug\net6.0\minggu4.genruntimeconfig.cache
+D:\visual\tugas\pemrograman\minggu4\obj\Debug\net6.0\ref\minggu4.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\bin\Debug\net6.0\minggu4.exe
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\bin\Debug\net6.0\minggu4.deps.json
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\bin\Debug\net6.0\minggu4.runtimeconfig.json
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\bin\Debug\net6.0\minggu4.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\bin\Debug\net6.0\minggu4.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\obj\Debug\net6.0\minggu4.csproj.AssemblyReference.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\obj\Debug\net6.0\minggu4.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\obj\Debug\net6.0\minggu4.AssemblyInfoInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\obj\Debug\net6.0\minggu4.AssemblyInfo.cs
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\obj\Debug\net6.0\minggu4.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\obj\Debug\net6.0\minggu4.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\obj\Debug\net6.0\refint\minggu4.dll
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\obj\Debug\net6.0\minggu4.pdb
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\obj\Debug\net6.0\minggu4.genruntimeconfig.cache
+D:\SEMESTER 2\PRATIKUM\PEMROGRAMAN (SELASA)\minggu4\minggu4\obj\Debug\net6.0\ref\minggu4.dll
